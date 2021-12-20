@@ -1,6 +1,6 @@
 ## Running React on Repl.it
 
-(Demo)[https://nft-game-starter-project.saurabhprakash4.repl.co/]
+[Demo](https://nft-game-starter-project.saurabhprakash4.repl.co/)
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
